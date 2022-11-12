@@ -18,4 +18,4 @@ Procedure
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
 
-5. Run the "application.py" file
+5. Run the "application.py" file.
